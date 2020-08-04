@@ -1,0 +1,17 @@
+{
+  "last_updated": 1574794920,
+  "ttl": 10,
+  "data": {
+    "alerts": [
+      {
+        "alert_id": "5",
+        "type": "OTHER",
+        "station_ids": [
+          "109"
+        ],
+        "summary": "Valet service available",
+        "last_updated": 1562011961
+      }
+    ]
+  }
+}

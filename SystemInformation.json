@@ -1,0 +1,18 @@
+{
+  "last_updated": 1574795129,
+  "ttl": 10,
+  "data": {
+    "system_id": "bluebikes",
+    "language": "en",
+    "name": "Blue Bikes",
+    "short_name": "Blue Bikes",
+    "operator": "Motivate International, Inc.",
+    "url": "http://bluebikes.com",
+    "purchase_url": "https://bluebikes.com/signup",
+    "start_date": "2011-07-28",
+    "phone_number": "1-855-948-2929",
+    "email": "customerservice@bluebikes.com",
+    "license_url": "",
+    "timezone": "America/New_York"
+  }
+}
